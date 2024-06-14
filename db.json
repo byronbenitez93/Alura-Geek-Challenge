@@ -1,0 +1,130 @@
+{
+  "productos": [
+    {
+      "id": "22",
+      "nombre": "Shanks ",
+      "precio": 75,
+      "imagen": "https://www.global-freaks.com/278808-large_default/one-piece-red-haired-shanks-ver15-variable-action-heroes-megahouse.jpg"
+    },
+    {
+      "id": "24",
+      "nombre": "Chopper",
+      "precio": 25,
+      "imagen": "https://www.global-freaks.com/254834-large_default/one-piece-chopper-cotton-candy-lover-figuarts-zero-bandai-spirits.jpg"
+    },
+    {
+      "id": "25",
+      "nombre": "Portgas D Ace",
+      "precio": 75,
+      "imagen": "https://www.global-freaks.com/251645-large_default/one-piece-portgas-d-ace-one-piece-bounty-rush-5th-anniversary-figuarts-zero-bandai-spirits.jpg"
+    },
+    {
+      "id": "26",
+      "nombre": "Luffy y Ace",
+      "precio": 290,
+      "imagen": "https://www.global-freaks.com/250007-large_default/one-piece-monkey-d-luffy-portgas-d-ace-kyoudai-no-kizuna-20th-limited-ver-portrait-of-pirates-neo-maximum-megahouse.jpg"
+    },
+    {
+      "id": "27",
+      "nombre": "Going Merry Go",
+      "precio": 35,
+      "imagen": "https://www.global-freaks.com/249417-large_default/one-piece-going-merry-ship-bandai.jpg"
+    },
+    {
+      "id": "28",
+      "nombre": "Zoro Roronoa",
+      "precio": 165,
+      "imagen": "https://www.global-freaks.com/225505-large_default/one-piece-pop-roronoa-zoro-soc-megahouse.jpg"
+    },
+    {
+      "id": "29",
+      "nombre": "Luffy Gear 5",
+      "precio": 198,
+      "imagen": "https://www.global-freaks.com/217239-large_default/one-piece-monkey-d-luffy-gear5-pop-sa-maximum-megahouse.jpg"
+    },
+    {
+      "id": "30",
+      "nombre": "Luffy",
+      "precio": 45,
+      "imagen": "https://www.global-freaks.com/142105-home_default/one-piece-monkey-d-luffy-2-grandista-nero-banpresto.jpg"
+    },
+    {
+      "id": "31",
+      "nombre": "Trafalgar Law",
+      "precio": 80,
+      "imagen": "https://www.global-freaks.com/124621-large_default/one-piece-trafalgar-law-playback-memories-megahouse.jpg"
+    },
+    {
+      "id": "32",
+      "nombre": "Vegeta",
+      "precio": 25,
+      "imagen": "https://www.global-freaks.com/267070-large_default/dragon-ball-super-super-hero-vegeta-sh-figuarts-bandai-spirits.jpg"
+    },
+    {
+      "id": "33",
+      "nombre": "Goku SS 3",
+      "precio": 45,
+      "imagen": "https://www.global-freaks.com/267062-large_default/dragon-ball-z-goku-ss3-sh-figuarts-bandai-spirits.jpg"
+    },
+    {
+      "id": "34",
+      "nombre": "Gohan Super Hero",
+      "precio": 25,
+      "imagen": "https://www.global-freaks.com/253908-large_default/dragon-ball-super-super-hero-gohan-beast-clearise-banpresto.jpg"
+    },
+    {
+      "id": "35",
+      "nombre": "Goku SS God",
+      "precio": 30,
+      "imagen": "https://www.global-freaks.com/236445-large_default/dragon-ball-super-goku-super-saiyan-god-saiyan-god-of-virtue-sh-figuarts-bandai-spirits.jpg"
+    },
+    {
+      "id": "36",
+      "nombre": "Frezer",
+      "precio": 30,
+      "imagen": "https://www.global-freaks.com/224415-large_default/dragon-ball-z-frieza-vol15-solid-edge-works-banpresto.jpg"
+    },
+    {
+      "id": "37",
+      "nombre": "Cell",
+      "precio": 25,
+      "imagen": "https://www.global-freaks.com/260359-large_default/dragon-ball-z-cell-solid-edge-works-banpresto.jpg"
+    },
+    {
+      "id": "38",
+      "nombre": "Kakashi Hatake",
+      "precio": 45,
+      "imagen": "https://www.global-freaks.com/277094-large_default/naruto-shippuden-kakashi-hatake-shfiguarts-tamashii-nations-bandai-spirits.jpg"
+    },
+    {
+      "id": "39",
+      "nombre": "Sasuke Uchiha",
+      "precio": 45,
+      "imagen": "https://www.global-freaks.com/277080-large_default/naruto-shippuden-sasuke-uchiha-shfiguarts-tamashii-nations-bandai-spirits.jpg"
+    },
+    {
+      "id": "40",
+      "nombre": "Naruto Sage Mode",
+      "precio": 65,
+      "imagen": "https://www.global-freaks.com/266703-large_default/naruto-shippuden-naruto-uzumaki-sage-mode-savior-of-konoha-shfiguarts-tamashii-nations.jpg"
+    },
+    {
+      "id": "41",
+      "nombre": "Jiraiya",
+      "precio": 25,
+      "imagen": "https://www.global-freaks.com/260391-large_default/naruto-shippuden-jiraiya-figure-colosseum-banpresto.jpg"
+    },
+    {
+      "id": "42",
+      "nombre": "Tsunade",
+      "precio": 50,
+      "imagen": "https://www.global-freaks.com/211381-large_default/naruto-shippuden-tsunade-gals-megahouse.jpg"
+    },
+    {
+      "id": "43",
+      "nombre": "Itachi Uchiha",
+      "precio": 60,
+      "imagen": "https://www.global-freaks.com/243090-large_default/naruto-shippuden-itachi-uchiha-the-light-dark-of-the-mangekyou-sharingan-figuarts-zero-chougekisen-tamashii-nations-bandai.jpg"
+    }
+  ]
+}
